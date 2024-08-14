@@ -19,7 +19,7 @@ Clonar el repositorio:
 
 bash
 Copy code
-git clone https://github.com/tu-usuario/encriptador-texto.git
+git clone https://github.com/jotaid/Encriptador-de-texto.git
 Navegar a la carpeta del proyecto:
 
 bash
